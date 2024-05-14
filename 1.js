@@ -1,4 +1,4 @@
-var target = "https://molsa.gov.iq/alimk";
+var target = "https://m/alimk";
 var speed = 10; // Set the interval to 10 milliseconds
 var msg = "Default message"; // Set a default message
 
